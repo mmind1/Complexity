@@ -1,7 +1,4 @@
-// Code must include a comment with name
-// Name: Matt Mindur
-
- public class Complexity {
+public class Complexity {
 	 // Private static int counter = 0;
 	 
 	 // Time Complexity O(n^2) with implementation
